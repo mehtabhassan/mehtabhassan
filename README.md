@@ -2,7 +2,7 @@
 
 >  💻 Software Engineer | JAVA + SpringBoot
 
-[![Twitter: @mehtabhassan1995](https://img.shields.io/twitter/follow/mehtabhassan1995?style=social)](https://twitter.com/mehtabhasssan1995)
+[![Twitter: @mehtabhassan1995](https://img.shields.io/twitter/follow/mehtabhassan1995?style=social)](https://twitter.com/mehtabhassan1995)
 [![Linkedin: syed-mehtab-hassan](https://img.shields.io/badge/-Mehtab%20Hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://pk.linkedin.com/in/syed-mehtab-hassan-22932714a/)](https://pk.linkedin.com/in/syed-mehtab-hassan-22932714a)
 [![GitHub: @mehtabhassan](https://img.shields.io/github/followers/availchet?label=follow&style=social)](https://github.com/mehtabhassan)
 [![Gmail: mehtabhassan1995](https://img.shields.io/badge/Gmail-mehtabhassan-red)](mailto:mehtabhassan1995@gmail.com)
