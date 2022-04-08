@@ -6,7 +6,7 @@
 [![Linkedin: syed-mehtab-hassan](https://img.shields.io/badge/-Mehtab%20Hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://pk.linkedin.com/in/syed-mehtab-hassan-22932714a/)](https://pk.linkedin.com/in/syed-mehtab-hassan-22932714a)
 [![GitHub: @mehtabhassan](https://img.shields.io/github/followers/mehtabhassan?label=mehtabhassan&style=social)](https://github.com/mehtabhassan)
 [![Gmail: mehtabhassan1995](https://img.shields.io/badge/Gmail-mehtabhassan-red)](mailto:mehtabhassan1995@gmail.com)
-[![Stack Overflow: syed-mehtab-hassan](https://img.shields.io/badge/-Stack%20Overflow-222222?logo=stack-overflow&link=https://stackoverflow.com/users/11046080/syed-mehtab-hassan)](https://stackoverflow.com/users/11046080/syed-mehtab-hassan)
+[![Stack Overflow: syed-mehtab-hassan](https://img.shields.io/badge/-Syed%20Mehtab%20Hassan-222222?logo=stack-overflow&link=https://stackoverflow.com/users/11046080/syed-mehtab-hassan)](https://stackoverflow.com/users/11046080/syed-mehtab-hassan)
 
 I am a Full stack developer from :house: Karachi, Pakistan.
 
