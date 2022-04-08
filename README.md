@@ -22,19 +22,16 @@ If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 ![Mehtab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehtabhassan&hide=["issues"]&show_icons=true)
 
 ##  🎉 Skills  🎉
-- **FrontEnd**: React, Redux, Angular, RxJs, SASS, Webpack
-- **BackEnd**: Go, Node.js, Express
-- **CI/CD**: CircleCI, GitHub Actions, Azure Pipelines
-- **DevOps**: Docker, Ansible, Fastlane, Nginx, Makefile
-- **Mobile**: React Native
-- **Bots**: Botkit, Rasa
-- **UI Frameworks**: Material-UI, Bootstrap
+- **FrontEnd**: React, Angular
+- **BackEnd**: Java, Kotlin, NodeJs
+- **DevOps**: Docker, Nginx, Makefile, Kubernetes
+- **Mobile**: Android
 - **Web technologies**: HTML5, CSS3, ES7+, a11y
-- **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL, Gremlin
-- **Misc**: Git, Eslint, Prettier, Typescript
+- **Databases**: MongoDB (Mongoose), MySQL, PostgreSQL, Oracle
+- **Misc**: Git, Jira, Trello, Notion
 - **Languages**: Java, Kotlin, NodeJs
 
-[![HitCount](http://hits.dwyl.com/availchet/availchet.svg)](http://hits.dwyl.com/availchet/availchet)
+<!-- [![HitCount](http://hits.dwyl.com/availchet/availchet.svg)](http://hits.dwyl.com/availchet/availchet) -->
 
 ---
 ⭐️ From [Mehtab Hassan](https://github.com/mehtabhassan)
