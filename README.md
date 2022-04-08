@@ -3,7 +3,7 @@
 >  💻 Software Engineer | JAVA + SpringBoot
 
 [![Twitter: @mehtabhassan1995](https://img.shields.io/twitter/follow/availchet?style=social)](https://twitter.com/mehtabhasssan1995)
-[![Linkedin: syed-mehtab-hassan](https://img.shields.io/badge/-Chetanya%20Kandhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://pk.linkedin.com/in/syed-mehtab-hassan-22932714a/)](https://pk.linkedin.com/in/syed-mehtab-hassan-22932714a)
+[![Linkedin: syed-mehtab-hassan](https://img.shields.io/badge/-Mehtab%20Hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://pk.linkedin.com/in/syed-mehtab-hassan-22932714a/)](https://pk.linkedin.com/in/syed-mehtab-hassan-22932714a)
 [![GitHub: @mehtabhassan](https://img.shields.io/github/followers/availchet?label=follow&style=social)](https://github.com/mehtabhassan)
 <a href="https://dev.to/availchet">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Chetanya Kandhari's DEV Profile" height="20" width="25">
