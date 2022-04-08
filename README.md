@@ -13,7 +13,7 @@ I am a Full stack developer from :house: Karachi, Pakistan.
 My passion lies in solving challenging problems, designing algorithms, and communicating complex ideas to non-technical stakeholders.
 I always look to exceed expectations and am effective both working as an individual and as part of a team.
 
-In my spare time, I like to travel :walking:, read :books:, listen to music :headphones: and watch movies :tv:.
+In my spare time, I like to travel :walking:, play 🏏:, listen to music :headphones: and watch movies :tv:.
 
 I enjoy learning new things and connecting with people across a range of industries. 
 If you ever want to bounce ideas off of me, please feel free to reach out. 😄
