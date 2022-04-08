@@ -1,6 +1,6 @@
 # Hi, I'm [Mehtab](https://github.com/mehtabhassan)! 👋
 
->  💻 Software Engineer | JAVA + SpringBoot
+>  💻 Software Engineer | Backend | Fintech
 
 [![Twitter: @mehtabhasan1995](https://img.shields.io/twitter/follow/mehtabhasan1995?style=social)](https://twitter.com/mehtabhasan1995)
 [![Linkedin: syed-mehtab-hassan](https://img.shields.io/badge/-Mehtab%20Hassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://pk.linkedin.com/in/syed-mehtab-hassan-22932714a/)](https://pk.linkedin.com/in/syed-mehtab-hassan-22932714a)
